@@ -8,6 +8,6 @@ Download the following twitter glove model from the kaggle link below into the w
 Link to glove.twitter.27B.100d.txt:
 https://www.kaggle.com/datasets/bertcarremans/glovetwitter27b100dtxt
 
-Install dependencies mentioned in the first cell of the notebook1.ipynb
+Install dependencies mentioned in the first cell of the MIProject.ipynb
 
 Run cells to carry out 
