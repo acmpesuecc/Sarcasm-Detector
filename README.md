@@ -1,5 +1,5 @@
 # Sarcasm-Detector-
-This is an RNN model that detects sarcasm in a phrase from the given context. 
+This is an LSTM model that detects sarcasm in a phrase from the given context. 
 It is trained on datasets of headlines and tweets obtained from sources online.
 
 To run the model,
